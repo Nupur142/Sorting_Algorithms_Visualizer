@@ -30,12 +30,15 @@ https://nupur142.github.io/Sorting_Algorithms_Visualizer/
 
 ## Unsorted array : 
 
-![Screenshot (82)](https://github.com/Nupur142/Sorting_Algo_Visualizer/assets/91134572/4fc72eee-144f-4b18-ad89-367d4ec2167c)
+![Screenshot (82)](https://github.com/Nupur142/Sorting_Algorithms_Visualizer/assets/91134572/7719db44-c896-4d19-a4a6-f5d9075bcfcf)
+
 
 ## Numbers being compared :
-![Screenshot (78)](https://github.com/Nupur142/Sorting_Algo_Visualizer/assets/91134572/1f713609-e9d4-4af8-865c-a4f57f4d1da5)
-![Screenshot (80)](https://github.com/Nupur142/Sorting_Algo_Visualizer/assets/91134572/d8aad1b1-e60f-408f-8e45-ccd9f2f56eb5)
+![Screenshot (78)](https://github.com/Nupur142/Sorting_Algorithms_Visualizer/assets/91134572/88e3d086-5b06-4f18-b3f3-4d6bf655a5ca)
+![Screenshot (80)](https://github.com/Nupur142/Sorting_Algorithms_Visualizer/assets/91134572/209dacd4-8a0e-4d8b-97aa-e3ad4462632f)
+
 
 ## Finally sorted! :
-![Screenshot (81)](https://github.com/Nupur142/Sorting_Algo_Visualizer/assets/91134572/1361790f-a6e9-4634-887f-afb21f6e4f88)
+![Screenshot (81)](https://github.com/Nupur142/Sorting_Algorithms_Visualizer/assets/91134572/5b50d73c-bbc8-48e5-8d15-45b00f76be05)
+
 
