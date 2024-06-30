@@ -1,6 +1,6 @@
 # Sorting_Visualizer
 ## Live Demo
-https://nupur142.github.io/Sorting_Algo_Visualizer/
+https://nupur142.github.io/Sorting_Algorithms_Visualizer/
 
 
 ### A web application showcasing the inner workings of sorting algorithms.
